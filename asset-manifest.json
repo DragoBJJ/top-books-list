@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/top-books-list/static/css/main.a969477d.chunk.css",
+    "main.js": "/top-books-list/static/js/main.bff5a448.chunk.js",
+    "main.js.map": "/top-books-list/static/js/main.bff5a448.chunk.js.map",
+    "runtime-main.js": "/top-books-list/static/js/runtime-main.eabf298b.js",
+    "runtime-main.js.map": "/top-books-list/static/js/runtime-main.eabf298b.js.map",
+    "static/js/2.bccbabee.chunk.js": "/top-books-list/static/js/2.bccbabee.chunk.js",
+    "static/js/2.bccbabee.chunk.js.map": "/top-books-list/static/js/2.bccbabee.chunk.js.map",
+    "index.html": "/top-books-list/index.html",
+    "static/css/main.a969477d.chunk.css.map": "/top-books-list/static/css/main.a969477d.chunk.css.map",
+    "static/js/2.bccbabee.chunk.js.LICENSE.txt": "/top-books-list/static/js/2.bccbabee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eabf298b.js",
+    "static/js/2.bccbabee.chunk.js",
+    "static/css/main.a969477d.chunk.css",
+    "static/js/main.bff5a448.chunk.js"
+  ]
+}
